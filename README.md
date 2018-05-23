@@ -1,3 +1,4 @@
-# invie-github
-Curso de github en plazi
-Usado para realizar la practica de git y github
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
